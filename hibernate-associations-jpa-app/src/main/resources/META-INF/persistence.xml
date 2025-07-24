@@ -6,6 +6,8 @@
         <class>org.webapp.hibernateapp.Entity.ClientDetail</class>
         <class>org.webapp.hibernateapp.Entity.Recive</class>
         <class>org.webapp.hibernateapp.Entity.Direction</class>
+        <class>org.webapp.hibernateapp.Entity.Curse</class>
+        <class>org.webapp.hibernateapp.Entity.Student</class>
         <exclude-unlisted-classes>true</exclude-unlisted-classes>
         <properties>
             <property name="jakarta.persistence.jdbc.url"
